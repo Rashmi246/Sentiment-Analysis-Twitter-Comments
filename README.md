@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Sentiment Analysis
 
  Here, I have performed the sentiment analysis on text data using supervised machine learning algorithms. This repository contains: <n>
 1.  Source Code: A jupyter notebook with name "sentiment_analysis.ipynb".
